@@ -43,3 +43,6 @@ Files:
 * Display obtained pacman's scores.
 * Pacman loses when an enemy touches it.
 * Pacman wins the game when it has taken all coins in the map.
+
+###### Video link
+* https://drive.google.com/file/d/1z3m3oYI-0RYPoAaDTtFRUjkkJUR3K7ae/view?usp=sharing
